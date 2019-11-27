@@ -1,16 +1,11 @@
-# base_approach
+# Application, which contains examples of various state management techniques.
 
-A new Flutter project.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Run next commands in root of project from terminal without quotes:
+1. "flutter pub get" 
+2. "flutter packages pub run build_runner build" or, if you have conflicts "flutter packages pub run build_runner build --delete-conflicting-outputs"
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you do not receive an error message, everything is fine and you can run the application on an emulator or a real device.
