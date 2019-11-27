@@ -1,4 +1,4 @@
-# Application, which contains examples of various state management techniques.
+# Application with examples of various state management techniques.
 
 
 
